@@ -5,7 +5,7 @@ A simple web app built for the Eneba internship task.
 The app allows users to search for games and display content.
 
 ## AI Assistance
-AI (ChatGPT) was used briefly to:
+AI was used briefly to:
 - Suggest project structure
 - Provide example code for connecting frontend and handling
 - Help with intial data for database
@@ -34,7 +34,7 @@ cd backend
 npm install
 node index
 ```
-Backend runs on http://localhost:3001
+Backend runs on http://localhost:3001 (1 TERMINAL)
 
 ### 3. Frontend
 ```
@@ -42,7 +42,7 @@ cd frontend
 npm intall
 npm run dev
 ```
-Frontend run on http://localhost:5173
+Frontend run on http://localhost:5173 (2 TERMINAL)
 
 
 Now you can access the website through http://localhost:5173
