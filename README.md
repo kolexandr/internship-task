@@ -1,4 +1,4 @@
-# Eneba Internship Game Search App       dsad
+# Eneba Internship Game Search App     
 
 ## Project Description
 A simple web app built for the Eneba internship task.  
